@@ -1,1 +1,0 @@
-#make a quiz machine using OOP and questions that can be taken easily from the internet
