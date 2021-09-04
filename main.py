@@ -9,7 +9,12 @@ for item in question_data:
 
 
 quiz = Quizbrain(question_bank)
-quiz.next_question()
+
+quiz.number_of_questions = len(question_bank)
+
+while quiz.question_number <= quiz.number_of_questions:
+    quiz.next_question
+    quiz.current_score
 
     
 
